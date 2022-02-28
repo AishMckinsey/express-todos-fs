@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/AishMckinsey/express-todos-fs/issues"
   },
-  "homepage": "https://github.com/AishMckinsey/express-todos-fs#readme"
+  "homepage": "https://github.com/AishMckinsey/express-todos-fs#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
 }
